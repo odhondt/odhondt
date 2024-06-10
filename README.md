@@ -7,7 +7,7 @@
   - Image processing
   - Python
   - Scientific Computing
-- I am currently maintaining an 🌍 Earth Observation toolbox called [`eo-tools`](https://github.com/odhondt/eo_tools) 
+- I am currently maintaining an 🌍 Observation toolbox called [`eo-tools`](https://github.com/odhondt/eo_tools) 
 - I am available for consulting jobs!
 <!--
 **odhondt/odhondt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
