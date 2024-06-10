@@ -1,7 +1,5 @@
 ## Hi there 👋
-
 - My name is Olivier D'Hondt
-
 - I'm a Remote Sensing expert
 - I have experience in
   - Synthetic Aperture Radar
