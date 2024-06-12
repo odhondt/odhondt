@@ -8,7 +8,7 @@
   - Python
   - Scientific Computing
 - I am the developer of [`eo-tools`](https://github.com/odhondt/eo_tools) an 🌍 Observation toolbox.
-- I am available for consulting jobs!
+- Feel free to contact me for consulting jobs!
 <!--
 **odhondt/odhondt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
