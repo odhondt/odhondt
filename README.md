@@ -1,12 +1,12 @@
 - My name is Olivier D'Hondt
 - I'm a Remote Sensing 🛰️ expert
 - I have experience in
-  -  Synthetic Aperture Radar
+  - Synthetic Aperture Radar
   - Geospatial analysis
   - Machine Learning
-  - Image processing
   - Python
   - Scientific Computing
+  - Flood mapping and volcano monitoring
 - I am the developer of [`eo-tools`](https://github.com/odhondt/eo_tools) an 🌍 Observation toolbox.
 - Feel free to contact me for consulting jobs! 🚀 
 <!--
